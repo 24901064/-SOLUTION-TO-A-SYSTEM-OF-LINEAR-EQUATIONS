@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: G.T.GOWTHAM
-#RegisterNumber:24901330
+#Developed by: S.BHARANI KUMAR
+#RegisterNumber:24901064
 import numpy as np
 
 # Given system of equations:
